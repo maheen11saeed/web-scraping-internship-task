@@ -55,3 +55,40 @@ This project uses Books to Scrape, a practice website designed for learning web 
 
 ## Author
 **Maheen Saeed**
+
+
+
+
+## Task 2: Exploratory Data Analysis (EDA)
+
+### Objective
+To explore and analyze the Books to Scrape dataset to identify trends, patterns, and potential data issues.
+
+### Dataset
+- Total records: 1,000 books
+- Total columns: 5
+- Columns: Title, Price, Rating, Availability, Book_URL
+
+### Analysis Performed
+- Explored dataset structure and data types.
+- Calculated average, median, minimum, and maximum book prices.
+- Analyzed book rating counts and availability.
+- Created a histogram of book prices.
+- Created bar charts for book ratings and average price by rating.
+- Performed hypothesis testing using ANOVA.
+- Checked missing values and duplicate records.
+
+### Key Findings
+- Average book price: 35.07
+- Median book price: 35.98
+- Minimum book price: 10.00
+- Maximum book price: 59.99
+- One-star books were the most common rating category, with 226 books.
+- All 1,000 books were marked as in stock.
+- No missing values or duplicate rows were found in the initial checks.
+
+### Tools Used
+Python, Pandas, Matplotlib, SciPy, and Google Colab.
+
+### Notebook
+See the Task 2 EDA notebook in this repository for the code, charts, and statistical results.
