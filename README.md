@@ -92,3 +92,30 @@ Python, Pandas, Matplotlib, SciPy, and Google Colab.
 
 ### Notebook
 See the Task 2 EDA notebook in this repository for the code, charts, and statistical results.
+
+
+
+
+
+
+
+## Task 3: Data Visualization
+
+### Objective
+To visualize the Books to Scrape dataset using Python, Matplotlib, and Seaborn.
+
+### Visualizations Created
+- Histogram showing the distribution of book prices.
+- Bar chart showing the number of books by rating.
+- Bar chart comparing average book prices by rating.
+- Boxplot showing the spread of book prices.
+
+### Key Findings
+These visualizations help understand book price distribution, rating patterns, and differences in average prices across rating categories.
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
